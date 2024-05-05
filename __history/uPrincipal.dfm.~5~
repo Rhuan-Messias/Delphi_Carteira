@@ -1,0 +1,43 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'CARTEIRA'
+  ClientHeight = 412
+  ClientWidth = 438
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Position = poScreenCenter
+  TextHeight = 15
+  object spGrafico: TSpeedButton
+    Left = 112
+    Top = 152
+    Width = 214
+    Height = 49
+    Caption = 'GRAFICOS'
+  end
+  object spCarteira: TSpeedButton
+    Left = 112
+    Top = 80
+    Width = 214
+    Height = 49
+    Caption = 'CARTEIRA'
+  end
+  object sbPesquisarAtivo: TSpeedButton
+    Left = 112
+    Top = 224
+    Width = 214
+    Height = 49
+    Caption = 'PESQUISAR POR ATIVO'
+  end
+  object sbPesquisaTipo: TSpeedButton
+    Left = 112
+    Top = 296
+    Width = 214
+    Height = 49
+    Caption = 'PESQUISAR POR TIPO'
+  end
+end

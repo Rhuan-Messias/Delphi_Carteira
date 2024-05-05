@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/28 14:21:29.000.496,=C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/28 14:42:06.000.236,=C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 11:09:47.000.392,=C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 11:10:12.000.547,C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Rhuan\delphi_projects\Delphi_Carteira\uPrincipal.pas</Transaction>
+    <Transaction>2024/05/05 11:10:12.000.547,C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Rhuan\delphi_projects\Delphi_Carteira\uPrincipal.dfm</Transaction>
+    <Transaction>2024/05/05 11:29:53.000.200,=C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 11:35:47.000.098,C:\Users\messi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Rhuan\delphi_projects\Delphi_Carteira\projCarteira.dproj</Transaction>
+    <Transaction>2024/05/05 11:51:14.000.695,=C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 11:52:01.000.709,C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.pas=C:\Rhuan\delphi_projects\Delphi_Carteira\uListagem.pas</Transaction>
+    <Transaction>2024/05/05 11:52:01.000.709,C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.dfm=C:\Rhuan\delphi_projects\Delphi_Carteira\uListagem.dfm</Transaction>
+    <Transaction>2024/05/05 12:02:36.770,=C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 12:02:56.652,C:\Rhuan\delphi_projects\Delphi_Carteira\Conexao\uConexaoDB.pas=C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 12:02:56.652,C:\Rhuan\delphi_projects\Delphi_Carteira\Conexao\uConexaoDB.dfm=C:\Rhuan\delphi_projects\Delphi_Carteira\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
